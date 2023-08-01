@@ -255,4 +255,4 @@ Above code will define Color, size & animation of weather icon. Now to get icon 
                   
 In above code, CASE containing the defined values by openweathermap & then i've this.setState({ icon: "Icon_Name" }); & in Icon_Name here you need to define appropriate animated icon name. react-animated-weather icon names are defined here.
 
-View Live demo.
+
